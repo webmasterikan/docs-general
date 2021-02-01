@@ -1,0 +1,6 @@
+name: installation-guide-en
+title: Installation Guide
+version: '5.8'
+start_page: ROOT:InstallationGuide.adoc
+nav:
+- modules/ROOT/nav.adoc  
