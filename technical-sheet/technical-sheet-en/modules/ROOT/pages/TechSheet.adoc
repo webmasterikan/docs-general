@@ -1,7 +1,7 @@
 // The imagesdir attribute is only needed to display images during offline editing. Antora neglects the attribute.
 :imagesdir: ../images
 :description: IKAN ALM Technical Sheet (English)
-:revnumber: v5.8
+:revnumber: v6.3
 :revdate: 01.01.2018
 
 = IKAN ALM Technical Sheet
