@@ -1,6 +1,6 @@
 name: alm-reports-linux
 title: ALM Reports (Linux)
-version: '1.4'
+version: '6.1'
 start_page: ROOT:ALMreports.adoc
 nav:
 - modules/ROOT/nav.adoc    
